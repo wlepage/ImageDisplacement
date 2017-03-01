@@ -1,0 +1,8 @@
+	* Suggested subset of 59 px, noise level 8.00 (default)
+	* Step = 1px
+	* Low-pass filtered
+	* Exhaustive search
+	* 8-tap
+	* Gaussian weights
+	* normalized square differences
+	* default tolerances
