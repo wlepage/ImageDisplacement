@@ -1,0 +1,20 @@
+Sample3
+	* Suggested subset of 59 px, noise level 8.00 (default)
+	* Step = 1px
+	* Low-pass filtered
+	* Exhaustive search
+	* 8-tap
+	* Gaussian weights
+	* normalized square differences
+	* default tolerances (0.02 px predictive margin, 0.1 px maximum confidence interval, 0.1 px maximum matchability tolerance)
+Sample11b
+	* Suggested subset of 43 px, noise level 8.00 (default)
+	* Step = 1px
+	* Low-pass filtered
+	* Exhaustive search
+	* 8-tap
+	* Gaussian weights
+	* normalized square differences
+	* default tolerances (0.02 px predictive margin, 0.1 px maximum confidence interval, 0.1 px maximum matchability tolerance)
+	* strain filter = 15 px decay filter
+	* time to correlate (without computing strains) = 35 seconds
